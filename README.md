@@ -1,2 +1,2 @@
 # trivial-python
-simple Python projects that mitigate minor inconveniences
+simple Python projects to mitigate minor inconveniences
